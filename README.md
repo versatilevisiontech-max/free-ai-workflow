@@ -10,6 +10,7 @@ Read [ROUTING.md](ROUTING.md). Open this repo in Claude Code when the job is cod
 | Job | Open |
 |-----|------|
 | Code, sites, repo edits | Claude Code, in that repo |
+| Motion graphics, B-roll, promo videos | Claude Code + [motion-graphics skills](ROUTING.md#motion-graphics) |
 | Daily brief, GitHub, Wix, Netlify, Canva, automations | Grok |
 | Long public writing | Claude or ChatGPT |
 | Video, large image sets, broad research | Gemini |
